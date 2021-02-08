@@ -1,0 +1,20 @@
+D:\Muhammed\C# Proje\Sudoku\Sudoku\bin\Release\Sudoku.exe.config
+D:\Muhammed\C# Proje\Sudoku\Sudoku\bin\Release\Sudoku.exe
+D:\Muhammed\C# Proje\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Release\Sudoku.sudoku_frm.resources
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Release\Sudoku.Properties.Resources.resources
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Release\Sudoku.exe
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Release\Sudoku.pdb
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\bin\Release\Sudoku.exe.config
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Release\Sudoku.exe
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Release\Sudoku.pdb
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Release\Sudoku.sudoku_frm.resources
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Release\Sudoku.Properties.Resources.resources
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Release\GenerateResource-ResGen.write.1.tlog

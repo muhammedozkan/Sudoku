@@ -1,0 +1,38 @@
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Muhammed\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.sudoku_frm.resources
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Muhammed\C# Proje\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Muhammed\C# Proje\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Debug\Sudoku.sudoku_frm.resources
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Muhammed\C# Proje\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.sudoku_frm.resources
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\OZKAN\Desktop\Sudoku\Sudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Muhammed\C# Proje\Sudoku\Sudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\muham\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\muham\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\muham\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\muham\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.sudoku_frm.resources
+C:\Users\muham\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\muham\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\muham\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
